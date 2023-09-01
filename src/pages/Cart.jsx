@@ -130,7 +130,7 @@ const Cart = () => {
                   </div>
                 </div>
                 <div className="cart__item-price">
-                  <b>770 ₽</b>
+                  <b>0</b>
                 </div>
                 <div className="cart__item-remove">
                   <div className="button button--outline button--circle">
@@ -202,7 +202,7 @@ const Cart = () => {
                   </div>
                 </div>
                 <div className="cart__item-price">
-                  <b>770 ₽</b>
+                  <b>0</b>
                 </div>
                 <div className="cart__item-remove">
                   <div className="button button--outline button--circle">
@@ -274,7 +274,7 @@ const Cart = () => {
                   </div>
                 </div>
                 <div className="cart__item-price">
-                  <b>770 ₽</b>
+                  <b>0</b>
                 </div>
                 <div className="cart__item-remove">
                   <div className="button button--outline button--circle">
@@ -346,7 +346,7 @@ const Cart = () => {
                   </div>
                 </div>
                 <div className="cart__item-price">
-                  <b>770 ₽</b>
+                  <b>0</b>
                 </div>
                 <div className="cart__item-remove">
                   <div className="button button--outline button--circle">
@@ -373,11 +373,11 @@ const Cart = () => {
               <div className="cart__bottom-details">
                 <span>
                   {' '}
-                  Всего пицц: <b>3 шт.</b>{' '}
+                  Всего пицц: <b>4 шт.</b>{' '}
                 </span>
                 <span>
                   {' '}
-                  Сумма заказа: <b>900 ₽</b>{' '}
+                  Сумма заказа: <b>0</b>{' '}
                 </span>
               </div>
               <div className="cart__bottom-buttons">
